@@ -186,3 +186,6 @@ class Star {
     }
   } 
 } 
+![3dterrain](https://user-images.githubusercontent.com/62591497/161414051-1b01d58b-7e7e-4c64-890e-1a83176dab0d.PNG)
+
+
